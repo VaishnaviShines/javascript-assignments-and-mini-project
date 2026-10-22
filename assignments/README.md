@@ -1,0 +1,1 @@
+JavaScript internship assignment solutions.
